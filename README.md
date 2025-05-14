@@ -25,19 +25,19 @@ SVAROG is an experimental programming language inspired by Slavic mythology, run
 ```
 
 🔤 Keywords:
-начало     — block start
-конец      — block end
-коль       — if
-инако      — else
-доколь     — while
-явить      — print to screen
+начало     — block start\n
+конец      — block end\n
+коль       — if\n
+инако      — else\n
+доколь     — while\n
+явить      — print to screen\n
 
 🧾 Data types:
-число      — integer
-дробь      — floating point number
-речь       — string
-истинник   — boolean
-пустец     — void / no return
+число      — integer\n
+дробь      — floating point number\n
+речь       — string\n
+истинник   — boolean\n
+пустец     — void / no return\n
 
 ⚔️ Operators:
 "+   -   *   =   ==   <   >   и(&&)   или(||)   не(!)"
